@@ -40,7 +40,7 @@ With a Diploma in IT (Information Security) from **Politeknik Ungku Omar**, I’
 
 ## 💻 Tech & Tools
 
-- 🔐 IAM | EDR | WAF | DLP | Firewall (Checkpoint, Palo Alto)
+- 🔐 IAM | EDR | WAF | AV | NAC | DLP | Firewall (Checkpoint, Palo Alto)
 - 🖥️ Linux | Windows | Virtualization (ESXi, VMs)
 - 💻 Programming: Python, Java, C++, C
 - 🔧 Tools: Nessus, Security Onion, Kali Linux, GPO
