@@ -64,7 +64,7 @@ With a Diploma in IT (Information Security) from **Politeknik Ungku Omar**, I’
 
 You can reach me at 👇
 
-[![Linkedin:](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/sunddr)
+[![Linkedin:](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/sunddra)
 [![TryHackMe:](https://img.shields.io/badge/Try_Hack_Me-white)](https://tryhackme.com/p/sunddra)
 
 ---
