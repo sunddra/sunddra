@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sunddra Paandian  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftraffic-bot-github&psig=AOvVaw18GcsIoSve-TyslZ8DLNMN&ust=1747626507263000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMC2n5yOrI0DFQAAAAAdAAAAABAE" width="50" height="45">
+# 👋 Hello, I'm Sunddra Paandian  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29kNXVjdmRxY25yOGg1aHMxMXRjMm80d3ZxOG1xYnVqanAzcTN3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFYs2LARiXps9uZFhq/giphy.gif" width="50" height="45">
 
 🔒 **Cybersecurity Enthusiast | IT Security Ops @ Etiqa | UTM Student | Passionate Learner**
 
