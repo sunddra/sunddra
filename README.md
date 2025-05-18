@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sunddra Paandian  <img src="https://gist.githubusercontent.com/musama619/eb3b00f5a85880bfaa7416d7916d61c5/raw/a9786f37062f2d0ed2dc724823aa66eed8ce883f/hi.gif" width="50" height="45">
+# 👋 Hello, I'm Sunddra Paandian  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftraffic-bot-github&psig=AOvVaw18GcsIoSve-TyslZ8DLNMN&ust=1747626507263000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMC2n5yOrI0DFQAAAAAdAAAAABAE" width="50" height="45">
 
 🔒 **Cybersecurity Enthusiast | IT Security Ops @ Etiqa | UTM Student | Passionate Learner**
 
