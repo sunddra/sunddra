@@ -49,16 +49,15 @@ With a Diploma in IT (Information Security) from **Politeknik Ungku Omar**, I’
 
 ## 🌱 Currently Learning
 
-- Advanced Penetration Testing  
 - Red Teaming Strategies  
 - Network Traffic Analysis  
-- Cloud Security (AWS & Azure)
+- Cloud Security (AWS)
 
 ---
 
 ## 🤝 Let's Connect!
 
-- 💬 Ask me about: Cybersecurity, IAM, Red Teaming, Firewalls
+- 💬 Ask me about: Cybersecurity, IAM, Red Teaming, Firewalls, IT Security Operation
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/sunddra)**  
 - 👯 Looking to collaborate on: Red team projects, Capture the Flag (CTF) challenges, cybersecurity workshops  
 - 🤔 Looking for help with: Learning cloud-native security and real-world threat emulation
