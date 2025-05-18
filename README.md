@@ -69,14 +69,11 @@ You can reach me at 👇
 
 ---
 
-## 😄 Courses
+## 📖 Courses
 
-Courses
-2024/2025 Semester II
+**2024/2025 Semester II**
 
-SECP1513-Technology and Information System(https://github.com/sunddra/SECP1513-Technology-Information-System)
-SECI2143-Probability and Statistic Data Analysis
-
+* [**SECP1513-Technology and Information System**](https://github.com/sunddra/SECP1513-Technology-Information-System.git)
 
 ---
 
