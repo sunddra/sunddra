@@ -61,6 +61,13 @@ With a Diploma in IT (Information Security) from **Politeknik Ungku Omar**, I’
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/sunddra)**  
 - 👯 Looking to collaborate on: Red team projects, Capture the Flag (CTF) challenges, cybersecurity workshops  
 - 🤔 Looking for help with: Learning cloud-native security and real-world threat emulation
+- You can reach me at 👇
+
+You can reach me at 👇
+
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/h4rithd)
+[![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunddr)
+[![TryHackMe:](https://www.google.com/imgres?q=tryhackme%20logo&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A824%2F1*jO3e_Zae79oWGwEixK_uVA.png&imgrefurl=https%3A%2F%2F0xashiiii.medium.com%2Ftryhackme-pre-security-learning-path-8328444b2d39&docid=GyOi84PJUQ9qFM&tbnid=vG3MHxJrRc4m1M&vet=12ahUKEwi-ic3eiKyNAxWYoWMGHQ3LJ7sQM3oECG0QAA..i&w=824&h=461&hcb=2&ved=2ahUKEwi-ic3eiKyNAxWYoWMGHQ3LJ7sQM3oECG0QAA)](https://tryhackme.com/p/sunddra)
 
 ---
 
