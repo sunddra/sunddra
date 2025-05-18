@@ -19,13 +19,15 @@ With a Diploma in IT (Information Security) from **Politeknik Ungku Omar**, I’
 ## 💼 Professional Experience
 
 ### 🔹 **IT Security Operation Engineer - Etiqa Insurance and Takaful (Apr 2025 - Present)**
-- Annual firewall rule reviews (Checkpoint & Palo Alto)
-- Manage perimeter security, including EDL automation for blocking malicious IPs
-- User provisioning & deactivation (onboarding, offboarding, movement)
-- Endpoint security tools: Antivirus, DLP, EDR, VPN
-- Handle network devices, servers, access card systems
-- Maintain & configure WAF and SFTP services
-- Policy and standard documentation for IT Security & Access Control
+- Conduct annual firewall rule reviews (Checkpoint & Palo Alto) to ensure compliance and efficiency.
+- Implement and manage perimeter firewall security, including blocking malicious IPs and introducing EDL automation.
+- Oversee IT access control processes such as provisioning and deactivating user IDs (onboarding, offboarding, staff movement).
+- Manage endpoint and server security tools (Antivirus, DLP, EDR, VPN) for robust protection.
+- Maintain and troubleshoot office network infrastructure including firewalls, servers, access control systems, and switches.
+- Firewall Management ( Access IT Security Governance, firewall rule management, network troubleshoot )
+- Configure and maintain WAF (Web Application Firewall) for web protection.
+- Update and maintain IT security policies, procedures, and standards related to IT Security and IT access control.
+- Consolidate secure file transfer (SFTP) services in Etiqa
 
 ### 🔹 **IAM Engineer - Etiqa Insurance Singapore (Mar 2023 - Apr 2025)**
 - UAM assessments, firewall rules, GPO configurations
