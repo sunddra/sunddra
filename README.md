@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sunddra Paandian ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> Trophies
+# 👋 Hello, I'm Sunddra Paandian  <img src="https://gist.githubusercontent.com/musama619/eb3b00f5a85880bfaa7416d7916d61c5/raw/a9786f37062f2d0ed2dc724823aa66eed8ce883f/hi.gif" width="50" height="45">
 
 🔒 **Cybersecurity Enthusiast | IT Security Ops @ Etiqa | UTM Student | Passionate Learner**
 
