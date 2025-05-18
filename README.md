@@ -64,9 +64,14 @@ With a Diploma in IT (Information Security) from **Politeknik Ungku Omar**, I’
 
 ---
 
-## 😄 Pronouns
+## 😄 Courses
 
-He / Him
+Courses
+2024/2025 Semester II
+
+SECP1513-Technology and Information System(https://github.com/sunddra/SECP1513-Technology-Information-System)
+SECI2143-Probability and Statistic Data Analysis
+
 
 ---
 
